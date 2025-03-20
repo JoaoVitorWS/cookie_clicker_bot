@@ -127,7 +127,7 @@ def save_data(duration, time_between_buys, cookies_per_second):
 
 if __name__ == "__main__":
     # Single run
-    cookie_clicker(time_between_buys=5, duration=1)
+    cookie_clicker(time_between_buys=5, duration=5)
 
     # # Changing time between buys
     # for i in range(1, 10):
